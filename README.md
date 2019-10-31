@@ -1,4 +1,4 @@
-# s6-lastpass-csv-parser
+# lastpass-csv-parser
 
 The `lastpass.py` script parses out the exported csv file from Lastpass into separated csv files for
 each folder. It helps that you could import specific folder/csv file into 1Password.
